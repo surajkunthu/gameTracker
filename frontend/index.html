@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Game Tracker</title>
+</head>
+<body>
+    <main>
+        <h1>Game Tracker</h1>
+        <form></form>
+        <section id="searchSection" hidden="true">
+            <h2> Search for a Game </h2>
+            Name of Game <input type="text" id="searchBar">
+        </section>
+
+        <section id="addSection" hidden="true">
+            <h2> Add a Game </h2>
+            Name <input type="text" id="gameName" required>
+            Score <input type="number" id="gameScore">
+            Year <input type="number" id="gameYear">
+            Number in Series <input type="number" id="gameSeries">
+        </section>
+        
+        <!-- <section id="status"></section> -->
+        <button type="submit" id="addGame"> Add a new game</button>
+        <button type="submit" id="searchGame"> Search for a game </button>
+        
+    </main>
+    
+</body>
+<script src="./index.js"></script>
+</html>

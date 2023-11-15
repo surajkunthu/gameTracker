@@ -1,5 +1,30 @@
-html{background-color: bisque;}
+html {
+  background-color: bisque;
+}
 
-section{
-    margin-bottom: 1rem;
+section {
+  margin-bottom: 1rem;
+}
+
+#gamesSection {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+span {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: 300px;
+  width: fit-content;
+}
+img:hover {
+  height: 315px;
+  width: fit-content;
 }

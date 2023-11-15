@@ -7,7 +7,7 @@ const knexExport = {
   development: {
     client: "pg",
     connection: {
-      database: "gamesDB",
+      database: "games_db",
     },
   },
 };

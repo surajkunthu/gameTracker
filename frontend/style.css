@@ -23,8 +23,9 @@ span {
 img {
   height: 300px;
   width: fit-content;
+  transition: 0.2s ease-in-out all;
 }
 img:hover {
-  height: 315px;
-  width: fit-content;
+  height: 350px;
+  box-shadow: 0 0 gray;
 }

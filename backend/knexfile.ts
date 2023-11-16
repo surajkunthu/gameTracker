@@ -1,9 +1,15 @@
 // Update with your config settings.
-
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
  */
-const knexExport = {
+interface Knexfile {
+  client: string;
+  connection: {
+    database: string;
+  };
+}
+
+const knexExport: Record<string, Knexfile> = {
   development: {
     client: "pg",
     connection: {

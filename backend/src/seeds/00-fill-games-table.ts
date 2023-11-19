@@ -1,8 +1,10 @@
+import knex from "knex";
+
 /**
  * @param { import("knex").Knex } knex
  * @returns { Promise<void> }
  */
-export const seed = async (knex) => {
+export const seed = async (knex: any) => {
   // Deletes ALL existing entries
   await knex("games").del();
   await knex("games").insert([

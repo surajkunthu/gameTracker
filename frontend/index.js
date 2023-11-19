@@ -6,11 +6,28 @@ const addSection = document.getElementById("addSection");
 const statusSection = document.getElementById("status");
 const gamesSection = document.getElementById("gamesSection");
 
+const gameForm = document.getElementById("gameAddition");
+const addGameName = document.getElementById("gameName").textContent;
+const addGameScore = document.getElementById("gameScore").value;
+const addGamePlatform = document.getElementById("gamePlatform").textContent;
+const addButton = document.getElementById("add");
+
+// Click the `add a new game` button
 addGame.addEventListener("click", (e) => {
   e.preventDefault();
   // statusSection.textContent = "Game Added"
   addSection.hidden = false;
   searchSection.hidden = true;
+});
+
+// click `add` after inputting data
+addButton.addEventListener("click", (e) => {
+  e.preventDefault();
+  console.log(addGameName);
+  const newForm = new FormData(gameForm);
+  const newFormData = Object.fromEntries(newForm.entries());
+  console.log(newFormData);
+  addNewGame(newFormData);
 });
 
 searchGame.addEventListener("click", (e) => {
@@ -38,6 +55,26 @@ async function getGames() {
   } catch (err) {
     console.error(err);
   }
+}
+
+async function addNewGame(newFormData) {
+  options = await fetch(URL)
+    .then(async (res) => {
+      if (res.ok) {
+        return await res.json().then(async () => {
+          return console.log(res.message);
+        });
+      } else {
+        return res.json().then(() => {
+          throw new Error(console.error(res.message));
+        });
+      }
+    })
+    .catch((err) => {
+      return console.error(err);
+    });
+
+  // const gameObjects = await response.json();
 }
 
 getGames();

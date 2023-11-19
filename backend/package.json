@@ -2,12 +2,13 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "./dist/server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "nodemon server.js",
-    "resetDB": "dropdb games_db && createdb games_db && npx knex migrate:latest && npx knex seed:run"
+    "compile": "tsc --watch",
+    "start:dev": "nodemon ./dist/server.js",
+    "resetDB": "dropdb games_db && createdb games_db && npx knex migrate:latest --knexfile ./dist/knexfile.js && npx knex seed:run --knexfile ./dist/knexfile.js"
   },
   "keywords": [],
   "author": "",

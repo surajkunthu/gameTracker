@@ -6,7 +6,7 @@ async function getSteamGridURL(gameName) {
     // SteamGridDB API Connect
     const steamGridURL = "https://www.steamgriddb.com/api/v2";
     const client = new SGDB({
-        key: API_KEY?.api_key,
+        key: API_KEY?.api_key, // hard code API key for now
         baseURL: steamGridURL,
     });
     // Find GAME ID
@@ -21,4 +21,5 @@ async function getSteamGridURL(gameName) {
     const gameGridURL = grids[0].url;
     return gameGridURL;
 }
+// console.log(await getSteamGridURL("Assassin's Creed 2"))
 export default getSteamGridURL;

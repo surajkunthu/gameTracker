@@ -10,12 +10,12 @@
     <main>
       <h1>Game Tracker</h1>
       <form></form>
-      <section id="searchSection" hidden="true">
+      <div id="searchSection" hidden="true">
         <h2>Search for a Game</h2>
         Name of Game <input type="text" id="searchBar" />
-      </section>
+      </div>
 
-      <section id="addSection" hidden="true">
+      <div id="addSection" hidden="true">
         <h2>Add a Game</h2>
         <form id="gameAddition">
           <label for="gameName">Name </label>
@@ -26,14 +26,14 @@
           <input type="text" id="gamePlatform" name="gamePlatform" />
           <input type="submit" id="add" value="Add" />
         </form>
-      </section>
+      </div>
 
       <!-- <section id="status"></section> -->
       <button type="submit" id="addGame">Add a new game</button>
       <button type="submit" id="searchGame">Search for a game</button>
 
-      <section id="gamesSection"></section>
+      <div id="gamesSection"></div>
     </main>
   </body>
-  <script src="./index.js"></script>
+  <script type="module" src="./dist/index.js"></script>
 </html>

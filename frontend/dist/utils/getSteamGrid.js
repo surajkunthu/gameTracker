@@ -2,7 +2,7 @@ import SGDB from "steamgriddb";
 import dotenv from "dotenv";
 // Middleware function to connect to Steam Grid DB API and pull game grid URL
 async function getSteamGridURL(gameName) {
-    const API_KEY = dotenv.config().parsed;
+    const API_KEY = dotenv.config({ path: '../../.env' }).parsed;
     // SteamGridDB API Connect
     const steamGridURL = "https://www.steamgriddb.com/api/v2";
     const client = new SGDB({
@@ -15,11 +15,11 @@ async function getSteamGridURL(gameName) {
     // 2254 = Game ID we got from searchGame()
     const grids = await client.getGrids({
         type: "game",
-        id: games[0].id,
+        id: games[0].id
     });
     // console.log(games[0]);
     const gameGridURL = grids[0].url;
     return gameGridURL;
 }
-// console.log(await getSteamGridURL("Assassin's Creed 2"))
+console.log(await getSteamGridURL("Assassin's Creed 2"));
 export default getSteamGridURL;

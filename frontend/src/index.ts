@@ -1,11 +1,9 @@
-import getSteamGridURL from "./utils/getSteamGrid.js"
-
-type Games = {
-  name: string;
-  imgURL: string;
-  score: number;
-  platform: string;
-};
+// type Games = {
+//   name: string;
+//   imgURL: string;
+//   score: number;
+//   platform: string;
+// };
 
 // import cors from "cors";
 const addGame = document.getElementById("addGame") as HTMLElement;
@@ -15,7 +13,7 @@ const searchSection = document.getElementById(
 ) as HTMLSpanElement;
 const addSection = document.getElementById("addSection") as HTMLElement;
 const statusSection = document.getElementById("status") as HTMLElement;
-const gamesSection = document.getElementById("gamesSection") as HTMLElement;
+let gamesSection = document.getElementById("gamesSection") as HTMLElement;
 const gameForm = document.getElementById("gameAddition") as HTMLFormElement;
 
 // Click the `add a new game` button
@@ -27,14 +25,17 @@ addGame.addEventListener("click", async (e) => {
 });
 
 // click `add` after inputting data
-gameForm.addEventListener("submit", (e: Event) => {
+gameForm.addEventListener("submit", async (e: Event) => {
   e.preventDefault();
   const newForm: FormData = new FormData(gameForm);
   const newFormData: any = Object.fromEntries(newForm);
-  console.log(newFormData["gameName"]);
-  const gameURL = getSteamGridURL(newFormData["gameName"]);
-  // console.log(gameURL);
-  // addNewGame(newFormData);
+  console.log(newFormData);
+  addNewGame(newFormData);
+  setTimeout(() => {
+    console.log("Loading...");
+    location.reload()//This should be placehold
+  }, 500);
+  
 });
 
 searchGame.addEventListener("click", (e: Event) => {
@@ -76,22 +77,27 @@ async function getGames(): Promise<any> {
   }
 }
 
-async function addNewGame(newFormData: Object) {
+async function addNewGame(newFormData: any) {
+  console.log(newFormData)
   try {
     const options: object = {
       method: "POST",
       mode: "cors",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(newFormData),
+      body: JSON.stringify({
+        name: newFormData["gameName"],
+        score: newFormData["gameScore"],
+        platform: newFormData["gamePlatform"],
+      }),
     };
-    // const response = await fetch(url, options);
-    console.log(newFormData);
-    // if (!response.ok) {
-    //   throw new Error();
-    // }
-    // return response;
+    const response = await fetch(url, options);
+    console.log(response.json());
+    if (!response.ok) {
+      throw new Error();
+    }
+    return response;
   } catch (err) {
-    console.error(err);
+    return console.error(err);
   }
 }
 

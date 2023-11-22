@@ -1,11 +1,17 @@
-import getSteamGridURL from "./utils/getSteamGrid.js";
+"use strict";
+// type Games = {
+//   name: string;
+//   imgURL: string;
+//   score: number;
+//   platform: string;
+// };
 // import cors from "cors";
 const addGame = document.getElementById("addGame");
 const searchGame = document.getElementById("searchGame");
 const searchSection = document.getElementById("searchSection");
 const addSection = document.getElementById("addSection");
 const statusSection = document.getElementById("status");
-const gamesSection = document.getElementById("gamesSection");
+let gamesSection = document.getElementById("gamesSection");
 const gameForm = document.getElementById("gameAddition");
 // Click the `add a new game` button
 addGame.addEventListener("click", async (e) => {
@@ -15,14 +21,16 @@ addGame.addEventListener("click", async (e) => {
     searchSection.hidden = true;
 });
 // click `add` after inputting data
-gameForm.addEventListener("submit", (e) => {
+gameForm.addEventListener("submit", async (e) => {
     e.preventDefault();
     const newForm = new FormData(gameForm);
     const newFormData = Object.fromEntries(newForm);
-    console.log(newFormData["gameName"]);
-    const gameURL = getSteamGridURL(newFormData["gameName"]);
-    // console.log(gameURL);
-    // addNewGame(newFormData);
+    console.log(newFormData);
+    addNewGame(newFormData);
+    setTimeout(() => {
+        console.log("Loading...");
+        location.reload(); //This should be placehold
+    }, 500);
 });
 searchGame.addEventListener("click", (e) => {
     e.preventDefault();
@@ -58,22 +66,27 @@ async function getGames() {
     }
 }
 async function addNewGame(newFormData) {
+    console.log(newFormData);
     try {
         const options = {
             method: "POST",
             mode: "cors",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(newFormData),
+            body: JSON.stringify({
+                name: newFormData["gameName"],
+                score: newFormData["gameScore"],
+                platform: newFormData["gamePlatform"],
+            }),
         };
-        // const response = await fetch(url, options);
-        console.log(newFormData);
-        // if (!response.ok) {
-        //   throw new Error();
-        // }
-        // return response;
+        const response = await fetch(url, options);
+        console.log(response.json());
+        if (!response.ok) {
+            throw new Error();
+        }
+        return response;
     }
     catch (err) {
-        console.error(err);
+        return console.error(err);
     }
 }
 window.addEventListener("load", () => {

@@ -6,7 +6,7 @@ const gamesRouter = express.Router();
 import { checkID, checkGameName, getSteamGridURL, } from "../utils/middleware.js";
 gamesRouter.get("/", async (req, res) => {
     try {
-        const response = await knex(config)("games");
+        const response = (await knex(config)("games").orderBy("name"));
         res.status(200).json(response);
     }
     catch (err) {
@@ -65,13 +65,14 @@ gamesRouter.put("/:id", async (req, res) => {
             const response = await knex(config)("games")
                 .update({
                 name: req.body.name,
+                imgURL: getSteamGridURL(req.body.name),
                 score: req.body.score,
                 platform: req.body.platform,
             })
                 .where("id", req.params.id);
             res
                 .status(200)
-                .json({ message: `Deleted game with id: ${req.params.id}` });
+                .json({ message: `Updated game with id: ${req.params.id}` });
         }
         else {
             res

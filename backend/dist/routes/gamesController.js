@@ -65,7 +65,7 @@ gamesRouter.put("/:id", async (req, res) => {
             const response = await knex(config)("games")
                 .update({
                 name: req.body.name,
-                imgURL: getSteamGridURL(req.body.name),
+                imgURL: await getSteamGridURL(req.body.name),
                 score: req.body.score,
                 platform: req.body.platform,
             })

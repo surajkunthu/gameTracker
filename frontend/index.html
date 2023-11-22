@@ -16,13 +16,16 @@
       </section>
 
       <section id="addSection" hidden="true">
-        <form id="gameAddition">
         <h2>Add a Game</h2>
-        Name <input type="text" id="gameName" required /> 
-        Score <input type="number" id="gameScore" /> 
-        Platform <input type="text" id="gamePlatform" />
-        <button type="submit" id="add">Add</button>
-      </form>
+        <form id="gameAddition">
+          <label for="gameName">Name </label>
+          <input type="text" id="gameName" name="gameName" required />
+          <label for="gameScore">Score</label>
+          <input type="number" id="gameScore" name="gameScore" />
+          <label for="gamePlatform">Platform</label>
+          <input type="text" id="gamePlatform" name="gamePlatform" />
+          <input type="submit" id="add" value="Add" />
+        </form>
       </section>
 
       <!-- <section id="status"></section> -->

@@ -1,4 +1,4 @@
-// const cors = require("cors");
+// import cors from "cors";
 const addGame = document.getElementById("addGame");
 const searchGame = document.getElementById("searchGame");
 const searchSection = document.getElementById("searchSection");
@@ -13,7 +13,7 @@ const addGamePlatform = document.getElementById("gamePlatform").textContent;
 const addButton = document.getElementById("add");
 
 // Click the `add a new game` button
-addGame.addEventListener("click", (e) => {
+addGame.addEventListener("click", async (e) => {
   e.preventDefault();
   // statusSection.textContent = "Game Added"
   addSection.hidden = false;
@@ -21,11 +21,11 @@ addGame.addEventListener("click", (e) => {
 });
 
 // click `add` after inputting data
-addButton.addEventListener("click", (e) => {
-  e.preventDefault();
+gameForm.addEventListener("submit", (event) => {
+  event.preventDefault();
   console.log(addGameName);
   const newForm = new FormData(gameForm);
-  const newFormData = Object.fromEntries(newForm.entries());
+  const newFormData = Object.fromEntries(newForm);
   console.log(newFormData);
   addNewGame(newFormData);
 });
@@ -36,11 +36,16 @@ searchGame.addEventListener("click", (e) => {
   searchSection.hidden = false;
 });
 
-const URL = "http://localhost:3000/games";
+gamesSection.addEventListener("click", (e, element) => {
+  const clickedElem = e.target;
+  console.log(clickedElem.closest("span").textContent);
+});
+
+const url = "http://localhost:3000/games";
 
 async function getGames() {
   try {
-    const response = await fetch(URL, { mode: "cors", method: "GET" });
+    const response = await fetch(url, { mode: "cors", method: "GET" });
     const gameObjects = await response.json();
     for (game of gameObjects) {
       const gameSpan = document.createElement("span");
@@ -57,25 +62,41 @@ async function getGames() {
   }
 }
 
-async function addNewGame(newFormData) {
-  options = await fetch(URL)
-    .then(async (res) => {
-      if (res.ok) {
-        return await res.json().then(async () => {
-          return console.log(res.message);
-        });
-      } else {
-        return res.json().then(() => {
-          throw new Error(console.error(res.message));
-        });
-      }
-    })
-    .catch((err) => {
-      return console.error(err);
-    });
+// async function addNewGame(newFormData) {
+//   try {
+//     const options = {
+//       method: "POST",
+//       mode: "cors",
+//       headers: { "Content-Type": "application/json" },
+//       body: JSON.stringify(newFormData),
+//     };
+//     const response = await fetch(url, options);
+//     console.log(response);
+//     if (!response.ok) {
+//       throw new Error();
+//     }
+//     return response;
+//   } catch (err) {
+//     console.error(err);
+//   }
+//  = await fetch(url)
+//   .then(async (res) => {
+//     if (res.ok) {
+//       return await res.json().then(async () => {
+//         console.log(res.message);
+//       });
+//     } else {
+//       return res.json().then(() => {
+//         throw new Error(console.error(res.message));
+//       });
+//     }
+//   })
+//   .catch((err) => {
+//     return console.error(err);
+// };
 
-  // const gameObjects = await response.json();
-}
+// const gameObjects = await response.json();
+// }
 
 getGames();
 
@@ -103,3 +124,5 @@ getGames();
 //     "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/9e36a141b565afea98b4e4a44e75ded4.png",
 // };
 // const gameObjects = [gameObject1, gameObject2, gameObject3, gameObject4];
+
+// Helper unction to connect to Steam Grid DB API and pull game grid URL

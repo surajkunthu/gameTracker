@@ -13,7 +13,7 @@ import {
 
 gamesRouter.get("/", async (req: Request, res: Response) => {
   try {
-    const response = await knex(config)("games");
+    const response = (await knex(config)("games").orderBy("name"));
     res.status(200).json(response);
   } catch (err) {
     res.status(400).json(err);
@@ -70,13 +70,14 @@ gamesRouter.put("/:id", async (req: Request, res: Response) => {
       const response = await knex(config)("games")
         .update({
           name: req.body.name,
+          imgURL: await getSteamGridURL(req.body.name),
           score: req.body.score,
           platform: req.body.platform,
         })
         .where("id", req.params.id);
       res
         .status(200)
-        .json({ message: `Deleted game with id: ${req.params.id}` });
+        .json({ message: `Updated game with id: ${req.params.id}` });
     } else {
       res
         .status(400)

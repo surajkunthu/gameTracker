@@ -5,7 +5,6 @@
 //   platform: string;
 // };
 
-// import cors from "cors";
 const addGame = document.getElementById("addGame") as HTMLElement;
 const searchGame = document.getElementById("searchGame") as HTMLElement;
 const searchSection = document.getElementById(
@@ -31,10 +30,10 @@ gameForm.addEventListener("submit", async (e: Event) => {
   const newFormData: any = Object.fromEntries(newForm);
   console.log(newFormData);
   addNewGame(newFormData);
-  setTimeout(() => {
-    console.log("Loading...");
-    location.reload()//This should be placehold
-  }, 500);
+  // setTimeout(() => {
+  //   console.log("Loading...");
+    // location.reload()//This should be placehold
+  // }, 1000);
   
 });
 
@@ -56,11 +55,10 @@ const url = "http://localhost:3000/games";
 async function getGames(): Promise<any> {
   try {
     const response: Response = await fetch(url, {
-      mode: "cors",
       method: "GET",
+      mode: "cors"
     });
     const gameObjects: any[] = await response.json();
-
     let game: any;
     for (game of gameObjects) {
       const gameSpan = document.createElement("span");
@@ -95,7 +93,8 @@ async function addNewGame(newFormData: any) {
     if (!response.ok) {
       throw new Error();
     }
-    return response;
+    console.log(response)
+    return false;
   } catch (err) {
     return console.error(err);
   }

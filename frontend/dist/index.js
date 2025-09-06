@@ -5,7 +5,6 @@
 //   score: number;
 //   platform: string;
 // };
-// import cors from "cors";
 const addGame = document.getElementById("addGame");
 const searchGame = document.getElementById("searchGame");
 const searchSection = document.getElementById("searchSection");
@@ -27,10 +26,10 @@ gameForm.addEventListener("submit", async (e) => {
     const newFormData = Object.fromEntries(newForm);
     console.log(newFormData);
     addNewGame(newFormData);
-    setTimeout(() => {
-        console.log("Loading...");
-        location.reload(); //This should be placehold
-    }, 500);
+    // setTimeout(() => {
+    //   console.log("Loading...");
+    // location.reload()//This should be placehold
+    // }, 1000);
 });
 searchGame.addEventListener("click", (e) => {
     e.preventDefault();
@@ -47,8 +46,8 @@ const url = "http://localhost:3000/games";
 async function getGames() {
     try {
         const response = await fetch(url, {
-            mode: "cors",
             method: "GET",
+            mode: "cors"
         });
         const gameObjects = await response.json();
         let game;
@@ -83,7 +82,8 @@ async function addNewGame(newFormData) {
         if (!response.ok) {
             throw new Error();
         }
-        return response;
+        console.log(response);
+        return false;
     }
     catch (err) {
         return console.error(err);

@@ -33,6 +33,7 @@ async function getSteamGridURL(gameName) {
         baseURL: steamGridURL,
     });
     // Find GAME ID
+    // returns a list of game names
     const games = await client.searchGame(gameName);
     // GET GRID
     // 2254 = Game ID we got from searchGame()
@@ -40,7 +41,8 @@ async function getSteamGridURL(gameName) {
         type: "game",
         id: games[0].id,
     });
-    // console.log(games[0]);
+    console.log(games);
+    console.log(grids);
     const gameGridURL = grids[0].url;
     return gameGridURL;
 }

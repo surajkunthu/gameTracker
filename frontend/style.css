@@ -3,6 +3,22 @@ html {
   color: white;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+li {
+  display: flex
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+
 div {
   margin-bottom: 1rem;
 }
@@ -25,7 +41,7 @@ span {
 img {
   height: 300px;
   width: fit-content;
-  transition: 0.2s ease-in-out all;
+  transition: 0.15s ease-in-out all;
 }
 img:hover {
   height: 350px;

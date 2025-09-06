@@ -6,6 +6,7 @@
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "open -a 'Google Chrome' http://localhost:8080 && http-server -a localhost -p 8080 -c-1",
     "server": "http-server -a localhost -p 8080 -c-1",
     "compile": "tsc --watch"
   },

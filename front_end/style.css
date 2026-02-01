@@ -19,7 +19,8 @@ a {
   background-color: #dddddd;
 }
 
-h1 {
+h1,
+h2 {
   display: flex;
   justify-content: center;
 }
@@ -50,4 +51,41 @@ img {
 img:hover {
   height: 350px;
   box-shadow: 0 0 5rem white;
+}
+
+/* The animation code */
+@keyframes myAnimation {
+  0% {
+    color: red;
+    left: 0px;
+    top: 0px;
+  }
+  25% {
+    color: yellow;
+    left: 200px;
+    top: 0px;
+  }
+  50% {
+    color: blue;
+    left: 200px;
+    top: 200px;
+  }
+  75% {
+    color: green;
+    left: 0px;
+    top: 200px;
+  }
+  100% {
+    color: red;
+    left: 0px;
+    top: 0px;
+  }
+}
+
+/* The element to apply the animation to */
+#gameNumber {
+  color: red;
+  animation-name: myAnimation;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }

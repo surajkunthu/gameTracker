@@ -4336,7 +4336,7 @@
         "id": 191,
         "franchise": "Uncharted",
         "franchise_index": 1.0,
-        "title": "Uncharted: Drake's Fortune",
+        "title": "Uncharted 1: Drake's Fortune",
         "imgURL": "https://cdn2.steamgriddb.com/grid/f53b5a5eb470f87921b5ff3d6a61cda6.png",
         "score": 7.0,
         "developer": "Naughty Dog",
@@ -4622,6 +4622,52 @@
             "Action/Adventure"
         ],
         "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 204,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Stray",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0f80528cf7f241930d15c0900c5ab8ad.jpg",
+        "score": 7.0,
+        "developer": "BlueTwelve Studio",
+        "publisher": "Annapurna Interactive",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 0,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 205,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Immortals of Aveum",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e0ead6c38d68c16b6a1d49f0ad11ccab.png",
+        "score": 5.0,
+        "developer": "Ascendant Studios",
+        "publisher": "EA",
+        "year": 2023,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 0,
         "dlcs": [
             {}
         ],

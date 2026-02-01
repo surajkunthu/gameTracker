@@ -1,0 +1,4676 @@
+[
+    {
+        "id": 0,
+        "franchise": "Age of Empires",
+        "franchise_index": 1.0,
+        "title": "Age of Empires",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0434b8e10f76266a9c4add79c62e1f64.png",
+        "score": 10.0,
+        "developer": "Ensemble Studios",
+        "publisher": "Microsoft",
+        "year": 1997,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Strategy RTS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "A classic strategy game that lets you explore, acquire resources, and enegage in war. Music is great. There are a lot of redudancies in the selectable empires."
+    },
+    {
+        "id": 1,
+        "franchise": "Age of Mythology",
+        "franchise_index": 1.0,
+        "title": "Age of Mythology",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/256134fdb202adab4fb952696d93b8af.jpg",
+        "score": 9.0,
+        "developer": "Ensemble Studios",
+        "publisher": "Microsoft",
+        "year": 2002,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Strategy RTS"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": "A fun twist on the strategy RTS formula with the addition of ancient myths. Good campaign, good music, good times."
+    },
+    {
+        "id": 2,
+        "franchise": "Alan Wake",
+        "franchise_index": 1.0,
+        "title": "Alan Wake",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ef95b846b1e8469e32e7831643ca00ef.png",
+        "score": 7.0,
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Horror",
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 3,
+        "franchise": "Alan Wake",
+        "franchise_index": 2.0,
+        "title": "Alan Wake's American Nightmare",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/de845b1e6c1a63150b5123dbb7fb32e1.png",
+        "score": 6.5,
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Horror",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 4,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 1.0,
+        "title": "Assassin’s Creed",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/a5eb02f2e24db13fe5e4826cfd515b84.png",
+        "score": 6.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2007,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 5,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 2.0,
+        "title": "Assassin’s Creed II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/30a53d130bbe822d676ababadbd3fffd.png",
+        "score": 10.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2009,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 6,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 2.1,
+        "title": "Assassin’s Creed: Brotherhood",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/fc535d4ae8496bf8ed9e3cd8895f5b71.png",
+        "score": 8.5,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2010,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 7,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 4.0,
+        "title": "Assassin’s Creed: Revelations",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/105fb0578a9e90c458f69bad63c38709.png",
+        "score": 8.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 8,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 5.0,
+        "title": "Assassin’s Creed III",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5d032420ce52894fa826e0fea5a60ac5.png",
+        "score": 7.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 9,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 3.1,
+        "title": "Assassin’s Creed III: Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f0ce59b6bf8e03499c788c348919a196.jpg",
+        "score": 7.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2019,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 10,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 4.0,
+        "title": "Assassin’s Creed IV: Black Flag",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ccfe7678d2412fe68fc540485c23a0b9.png",
+        "score": 8.5,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 11,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 4.1,
+        "title": "Assassin's Creed: Rogue",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5248e753a98d3de4a6694e91fe90079f.png",
+        "score": 6.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2014,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 12,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 5.0,
+        "title": "Assassin's Creed: Unity",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/67b50a2aac43f7ce1502dce16dad4dc2.jpg",
+        "score": 6.0,
+        "developer": "Ubisoft Sofia",
+        "publisher": "Ubisoft",
+        "year": 2014,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 13,
+        "franchise": "Assassin’s Creed",
+        "franchise_index": 6.0,
+        "title": "Assassin's Creed: Syndicate",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/59ca489ceeb5610288f9da184e668243.png",
+        "score": 5.0,
+        "developer": "Ubisoft Quebec",
+        "publisher": "Ubisoft",
+        "year": 2015,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cool imagining of victorian London. It maintains the annoying parts of the Assassin's Creed formula and adds more tedious combat"
+    },
+    {
+        "id": 14,
+        "franchise": "Atomic Heart",
+        "franchise_index": 1.0,
+        "title": "Atomic Heart",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/53f249d8ba9cfab41868236dead77aba.jpg",
+        "score": 7.0,
+        "developer": "Mundfish",
+        "publisher": "Focus Entertainment",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Action/Adventure"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 15,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Bastion",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0e7714f733f1e30e63dc06045d159b05.png",
+        "score": 6.0,
+        "developer": "SuperGiant Games",
+        "publisher": "WB Games",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 16,
+        "franchise": "Batman Arkham",
+        "franchise_index": 1.0,
+        "title": "Batman: Arkham Asylum",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/69fd92bd85b2c2d1267e63ff1df624ae.jpg",
+        "score": 8.0,
+        "developer": "Rocksteady",
+        "publisher": "WB Games",
+        "year": 2009,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 17,
+        "franchise": "Batman Arkham",
+        "franchise_index": 2.0,
+        "title": "Batman: Arkham City",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9fc58509b8580ed54ea5baa80e1a8ff1.png",
+        "score": 9.0,
+        "developer": "Rocksteady",
+        "publisher": "WB Games",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 18,
+        "franchise": "Batman Arkham",
+        "franchise_index": 3.0,
+        "title": "Batman: Arkham Origins",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/2a17dafef6f0b54770c97b59b51e28e2.png",
+        "score": 6.5,
+        "developer": "Rocksteady",
+        "publisher": "WB Games",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 19,
+        "franchise": "Batman Arkham",
+        "franchise_index": 4.0,
+        "title": "Batman: Arkham Knight",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f84188cb2659a5c8c875d7f0e9fc847c.jpg",
+        "score": 9.0,
+        "developer": "Rocksteady",
+        "publisher": "WB Games",
+        "year": 2015,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 20,
+        "franchise": "Battlefield",
+        "franchise_index": 6.0,
+        "title": "Battlefield: Bad Company 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/d0d486f06c0b0cc28c3cf51bb0df648a.png",
+        "score": 4.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cool that most buildings are destructible. Gunplay is good. Story is kinda meh"
+    },
+    {
+        "id": 21,
+        "franchise": "Battlefield",
+        "franchise_index": 7.0,
+        "title": "Battlefield 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9ed695254285a3b7379aa3e2694489e3.png",
+        "score": 5.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cool \"edgy\" music but bland military movie shooter"
+    },
+    {
+        "id": 22,
+        "franchise": "Battlefield",
+        "franchise_index": 8.0,
+        "title": "Battlefield 4",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/771dd529ffdd3fda1a93ad0659a99bba.png",
+        "score": 6.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 23,
+        "franchise": "Battlefield",
+        "franchise_index": 9.0,
+        "title": "Battlefield: Hardline",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/22713a1af06dadd0d61f6aff838e613f.png",
+        "score": 5.0,
+        "developer": "Visceral Games",
+        "publisher": "EA",
+        "year": 2015,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cool idea where you play as a cop but most missions suck"
+    },
+    {
+        "id": 24,
+        "franchise": "Battlefield",
+        "franchise_index": 10.0,
+        "title": "Battlefield 1",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/08178acdaf59fb8ef375c94d8977cc93.jpg",
+        "score": 6.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2016,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 25,
+        "franchise": "Battlefield",
+        "franchise_index": 11.0,
+        "title": "Battlefield V",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6d44d555d66bef025eb4c4f3b0355fc6.png",
+        "score": 4.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2018,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Beautiful WW2 shooter. Nothing more."
+    },
+    {
+        "id": 26,
+        "franchise": "Binding of Isaac",
+        "franchise_index": 2.0,
+        "title": "The Binding of Isaac: Rebirth",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/cce119502b39f2cd9f69219bb6dbd241.png",
+        "score": 10.0,
+        "developer": "Nicalis",
+        "publisher": "Nicalis",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie",
+            "Dungeon Crawler"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 27,
+        "franchise": "BioShock",
+        "franchise_index": 1.0,
+        "title": "Bioshock",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9f3c7d34f039deea6e0b444c8c8a3bbc.png",
+        "score": 10.0,
+        "developer": "Irrational Games",
+        "publisher": "2K Games",
+        "year": 2007,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 28,
+        "franchise": "BioShock",
+        "franchise_index": 1.5,
+        "title": "Bioshock Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/655a24492da711cd2e13bcb95d76f855.png",
+        "score": 10.0,
+        "developer": "Irrational Games",
+        "publisher": "2K Games",
+        "year": 2007,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 29,
+        "franchise": "BioShock",
+        "franchise_index": 2.0,
+        "title": "Bioshock 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b52a81fd928a53cb9c2cd71392a80c84.png",
+        "score": 8.0,
+        "developer": "2K Boston",
+        "publisher": "2K Games",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 30,
+        "franchise": "BioShock",
+        "franchise_index": 2.5,
+        "title": "Bioshock 2 Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b9eb072260f8a069d76c3407cc589c66.png",
+        "score": 8.0,
+        "developer": "2K Boston",
+        "publisher": "2K Games",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 31,
+        "franchise": "BioShock",
+        "franchise_index": 3.0,
+        "title": "Bioshock Infinite",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/374ad92e28ff7e130fb88205d8f49384.png",
+        "score": 9.5,
+        "developer": "Irrational Games",
+        "publisher": "2K Games",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Action/Adventure"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 32,
+        "franchise": "Black Mesa",
+        "franchise_index": 1.0,
+        "title": "Black Mesa",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/89250c0d296660c427ed0d1d5059e8b7.png",
+        "score": 7.5,
+        "developer": "Crowbar Collective",
+        "publisher": "Crowbar Collective",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 33,
+        "franchise": "Borderlands",
+        "franchise_index": 1.0,
+        "title": "Borderlands",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/4f70afdc96d8fdd57e8f69f0759b01e7.png",
+        "score": 6.0,
+        "developer": "Gearbox Games",
+        "publisher": "2K Games",
+        "year": 2009,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 34,
+        "franchise": "Borderlands",
+        "franchise_index": 2.0,
+        "title": "Borderlands 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9dd3759c9ab81b8e84def142a991a412.jpg",
+        "score": 8.0,
+        "developer": "Gearbox Games",
+        "publisher": "2K Games",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 35,
+        "franchise": "Borderlands",
+        "franchise_index": 2.1,
+        "title": "Borderlands: The Pre-Sequel",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/24d2226e605ffca86e5c6b493ba54975.jpg",
+        "score": 6.5,
+        "developer": "Gearbox Games",
+        "publisher": "2K Games",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 36,
+        "franchise": "Borderlands",
+        "franchise_index": 2.2,
+        "title": "Tales from the Borderlands",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/27e290460de9cd215ba0c8551ff4cd71.png",
+        "score": 8.0,
+        "developer": "Tell Tale Games",
+        "publisher": "Gearbox Games",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Point-and-Click",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 37,
+        "franchise": "Borderlands",
+        "franchise_index": 3.0,
+        "title": "Borderlands 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c039e6496e67fdb3d46e6d5877e01ed2.png",
+        "score": 7.0,
+        "developer": "Geabox Games",
+        "publisher": "2K Games",
+        "year": 2019,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 38,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Brothers: A Tale of Two Sons",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/075647d73efd90ca8bce86297c93e106.png",
+        "score": 6.0,
+        "developer": "Starbreeze Studios",
+        "publisher": "505 Games",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 39,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Brütal Legend",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/325ff4fd5d36bfc4a9cd47fc5be2ee48.jpg",
+        "score": 5.0,
+        "developer": "Double Fine Studios",
+        "publisher": "Double Fine Studios",
+        "year": 2009,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Interesting idea of a game. 3rd person open world action game that expands into an RTS in a rock opera setting. I was disappointed by the open-worldy mechanics of the game and certain elements of the story were kinda boring. However, I appreciate Double Fine's creativity in this outing."
+    },
+    {
+        "id": 40,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Bulletstorm: Full Clip Edition",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/4269dbc2e548ee2a9ebe543790e6ff1d.png",
+        "score": 5.0,
+        "developer": "People Can Fly",
+        "publisher": "Gearbox",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 41,
+        "franchise": "Call of Duty",
+        "franchise_index": 4.0,
+        "title": "Call of Duty 4: Modern Warfare ",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b3049ee4f30b41fa9f41d88a0068f65c.png",
+        "score": 7.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2007,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 42,
+        "franchise": "Call of Duty",
+        "franchise_index": 4.1,
+        "title": "Call of Duty 4: Modern Warfare Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/a3116fcb0ff78581d441a3de68287e73.png",
+        "score": 7.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 43,
+        "franchise": "Call of Duty",
+        "franchise_index": 5.0,
+        "title": "Call of Duty: World at War",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/74382b603df4a14cc8dc4ea375ddbc64.png",
+        "score": 5.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2008,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cool campaign, music, and has zombies. Maybe I'm just tired of WW2 shooters that aren't innovative."
+    },
+    {
+        "id": 44,
+        "franchise": "Call of Duty",
+        "franchise_index": 6.0,
+        "title": "Call of Duty: Modern Warfare 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/cc96d0754de7d47e9a9a709eb2cd451f.jpg",
+        "score": 7.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2009,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 45,
+        "franchise": "Call of Duty",
+        "franchise_index": 7.0,
+        "title": "Call of Duty: Black Ops",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b9b065288cf8d4eba8b9ac1ad9c52aaf.png",
+        "score": 7.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2010,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 46,
+        "franchise": "Call of Duty",
+        "franchise_index": 8.0,
+        "title": "Call of Duty: Modern Warfare 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/81a1c64abf082199cf9585a14aedcbad.jpg",
+        "score": 6.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 47,
+        "franchise": "Call of Duty",
+        "franchise_index": 9.0,
+        "title": "Call of Duty: Black Ops II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/853695e4fd475d6b482d94895c6b595d.jpg",
+        "score": 7.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 48,
+        "franchise": "Call of Duty",
+        "franchise_index": 10.0,
+        "title": "Call of Duty: Ghosts",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/fe264dded3eaff218eec0176afde2232.png",
+        "score": 2.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Boring ass story. Same Call of Duty nonsense."
+    },
+    {
+        "id": 49,
+        "franchise": "Call of Duty",
+        "franchise_index": 11.0,
+        "title": "Call of Duty: Advanced Warfare",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ff365cf2694d71ef4672f36c57ea8530.jpg",
+        "score": 5.0,
+        "developer": "Sledgehammer Games",
+        "publisher": "Activision",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Very mid game with some cool moments. Kevin Spacey did a pretty good job."
+    },
+    {
+        "id": 50,
+        "franchise": "Call of Duty",
+        "franchise_index": 12.0,
+        "title": "Call of Duty: Black Ops III",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c6b1eb5d688380d2e01a1b980bebc113.jpg",
+        "score": 3.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2015,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Mid game that continues the future aspects of Call of Duty. Tries to do a Bioshock type moment but writing is nowhere close."
+    },
+    {
+        "id": 51,
+        "franchise": "Call of Duty",
+        "franchise_index": 13.0,
+        "title": "Call of Duty: Infinite Warfare",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e4bc18644b10f231816f29fa9252d39b.png",
+        "score": 6.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 52,
+        "franchise": "Call of Duty",
+        "franchise_index": 14.0,
+        "title": "Call of Duty: WWII",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0a07a96284741df4a0d7db65fa72fcf6.png",
+        "score": 4.0,
+        "developer": "Sledgehammer Games",
+        "publisher": "Activision",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "A worse WW2 shooter than World at War (which was good)."
+    },
+    {
+        "id": 53,
+        "franchise": "Call of Duty",
+        "franchise_index": 16.0,
+        "title": "Call of Duty: Modern Warfare",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0bc22e1c47f26addd1907b4931e507b1.png",
+        "score": 6.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2019,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 54,
+        "franchise": "Call of Duty",
+        "franchise_index": 17.0,
+        "title": "Call of Duty: Black Ops: Cold War",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/2c3dd8064e75cdf11bc22399ec427e08.png",
+        "score": 6.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2020,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 55,
+        "franchise": "Call of Duty",
+        "franchise_index": 19.0,
+        "title": "Call of Duty: Modern Warfare II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5cef43602bc7486da26ba5fbf4483f43.png",
+        "score": 6.0,
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 56,
+        "franchise": "Call of Duty",
+        "franchise_index": 21.0,
+        "title": "Call of Duty: Black Ops 6",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ccd427e9a45f148777fe91e6850bf8eb.png",
+        "score": 6.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2024,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 57,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "The Callisto Protocol",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e2dbb0b1c2c35fce380831d90d6f50a0.png",
+        "score": 6.0,
+        "developer": "Striking Distance Studios",
+        "publisher": "KRAFTON",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 58,
+        "franchise": "Counter-Strike",
+        "franchise_index": 2.0,
+        "title": "Counter-Strike: Source",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/68addc821b387ab5cc91c846b627a586.png",
+        "score": 7.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2004,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 59,
+        "franchise": "Counter-Strike",
+        "franchise_index": 3.0,
+        "title": "Counter-Strike: Global Offensive",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c6a8488de86eddf87c84edf4136a1126.png",
+        "score": 7.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 60,
+        "franchise": "Crysis",
+        "franchise_index": 1.0,
+        "title": "Crysis Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c22ebae3205aa7aaac13ef755677263e.png",
+        "score": 7.0,
+        "developer": "Crytek",
+        "publisher": "Crytek",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 61,
+        "franchise": "Crysis",
+        "franchise_index": 2.0,
+        "title": "Crysis 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/01b0a736edebbeb4d272d3836ccca896.png",
+        "score": 6.0,
+        "developer": "Crytek",
+        "publisher": "EA",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 62,
+        "franchise": "Crysis",
+        "franchise_index": 3.0,
+        "title": "Crysis 2 Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9117a47742d87b8929f47eac8bc12924.png",
+        "score": 6.0,
+        "developer": "Crytek",
+        "publisher": "Crytek",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 63,
+        "franchise": "Crysis",
+        "franchise_index": 4.0,
+        "title": "Crysis 3 Remastered",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/d4dc1731bec86517f31cd5fc2f38c559.png",
+        "score": 7.0,
+        "developer": "Crytek",
+        "publisher": "Crytek",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 64,
+        "franchise": "Cyberpunk 2077",
+        "franchise_index": 1.0,
+        "title": "Cyberpunk 2077",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/055c25fa28c4eb8c6bb0672e557eef80.png",
+        "score": 9.0,
+        "developer": "CDProjektRed",
+        "publisher": "CDProjektRed",
+        "year": 2020,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 65,
+        "franchise": "The Darkness",
+        "franchise_index": 2.0,
+        "title": "The Darkness II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/7d57783f3e3622fcbda6e50a9128094c.png",
+        "score": 5.5,
+        "developer": "Digital Extremes",
+        "publisher": "2K Games",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 66,
+        "franchise": "Darksiders",
+        "franchise_index": 1.0,
+        "title": "Darksiders",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/90613d224d8d978eee15e8da8292f174.png",
+        "score": 6.0,
+        "developer": "Vigil Games",
+        "publisher": "THQ",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 67,
+        "franchise": "Darksiders",
+        "franchise_index": 1.5,
+        "title": "Darksiders: Warmastered Edition",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6537e13488b3ddb03c4a315ad2472194.png",
+        "score": 6.0,
+        "developer": "Vigil Games",
+        "publisher": "THQ",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 68,
+        "franchise": "Dead Space",
+        "franchise_index": 1.0,
+        "title": "Dead Space",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/26203c6ab63ff66fef12bbc3b8dad1c0.png",
+        "score": 8.5,
+        "developer": "Visceral Games",
+        "publisher": "EA",
+        "year": 2008,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 69,
+        "franchise": "Dead Space",
+        "franchise_index": 1.5,
+        "title": "Dead Space (2023)",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ba49e8c45fef7070f22c11c10a45fa23.png",
+        "score": 9.0,
+        "developer": "Motive Studio",
+        "publisher": "EA",
+        "year": 2023,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 70,
+        "franchise": "Dead Space",
+        "franchise_index": 2.0,
+        "title": "Dead Space 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f5d589ab486178e83c95283826899b5f.png",
+        "score": 8.0,
+        "developer": "Visceral Games",
+        "publisher": "EA",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 71,
+        "franchise": "Dead Space",
+        "franchise_index": 3.0,
+        "title": "Dead Space 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/be9b0d946dfd31f8f829faffe0d92eff.png",
+        "score": 6.0,
+        "developer": "Visceral Games",
+        "publisher": "EA",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 72,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Dear Esther",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/51ec36dbd5ca296a7d67d606d644601d.png",
+        "score": 4.0,
+        "developer": "The Chinese Room",
+        "publisher": "The Chinese Room",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Walking Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Interesting idea, essentially started the walking sim genre but not interactive enough for me."
+    },
+    {
+        "id": 73,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Deathloop",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c27b7f8c60c0fbdd0efa30fa0821fc3f.png",
+        "score": 7.0,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 74,
+        "franchise": "Deus Ex",
+        "franchise_index": 1.0,
+        "title": "Deus Ex",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ca20e1d8e1d19a92fbfc28f0b467dd5b.png",
+        "score": 9.0,
+        "developer": "Ion Storm",
+        "publisher": "Eidos Interactive",
+        "year": 2000,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 75,
+        "franchise": "Deus Ex",
+        "franchise_index": 3.0,
+        "title": "Deus Ex: Human Revolution: Director's Cut",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9799d486733c19e847204b60c44ea7e7.png",
+        "score": 8.5,
+        "developer": "Eidos Montreal",
+        "publisher": "Square Enix",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 76,
+        "franchise": "Deus Ex",
+        "franchise_index": 4.0,
+        "title": "Deus Ex: Mankind Divided",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6d5da6ac9f4a47621f5483ea6d33e8d9.png",
+        "score": 8.5,
+        "developer": "Eidos Montreal",
+        "publisher": "Square Enix",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 77,
+        "franchise": "Dishonored",
+        "franchise_index": 1.0,
+        "title": "Dishonored",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/48b9ef5bcb5ede1575779d29b9eeffe7.png",
+        "score": 10.0,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Stealth",
+            "Immersive Sim"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 78,
+        "franchise": "Dishonored",
+        "franchise_index": 2.0,
+        "title": "Dishonored 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/55a3c8423eb4c12b794b1a1d92ba2294.png",
+        "score": 10.0,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Stealth",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 79,
+        "franchise": "Dishonored",
+        "franchise_index": 3.0,
+        "title": "Dishonored: Death of the Outsider",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ee1a417b3a31db5c55b724e416209d27.png",
+        "score": 8.0,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Stealth",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 80,
+        "franchise": "Doom",
+        "franchise_index": 1.0,
+        "title": "Doom",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ef58f7ffe086514aa0164c7fc4f6cea8.png",
+        "score": 8.0,
+        "developer": "id Software",
+        "publisher": "id Software",
+        "year": 1993,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 81,
+        "franchise": "Doom",
+        "franchise_index": 2.0,
+        "title": "Doom II: Hell on Earth",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/87c127859fc39bd758773fbb1ea3012d.jpg",
+        "score": 8.0,
+        "developer": "id Software",
+        "publisher": "id Software",
+        "year": 1994,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 82,
+        "franchise": "Doom",
+        "franchise_index": 2.5,
+        "title": "Doom 64",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/32b87d267730795171ae25b605e7cee3.png",
+        "score": 8.0,
+        "developer": "id Software",
+        "publisher": "id Software",
+        "year": 1997,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 83,
+        "franchise": "Doom",
+        "franchise_index": 3.0,
+        "title": "Doom 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/22820cf96fe0c4e7154ecc4be949a746.png",
+        "score": 7.5,
+        "developer": "id Software",
+        "publisher": "Activision",
+        "year": 2004,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 84,
+        "franchise": "Doom",
+        "franchise_index": 4.0,
+        "title": "DOOM",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e6b2e5d385c1503fbd55b97ba5dc4b77.png",
+        "score": 8.0,
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 85,
+        "franchise": "Doom",
+        "franchise_index": 5.0,
+        "title": "DOOM Eternal",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/35a53eba9befcf53a42be3f0b22a39c2.png",
+        "score": 10.0,
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks",
+        "year": 2020,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 86,
+        "franchise": "Doom",
+        "franchise_index": 6.0,
+        "title": "Doom: The Dark Ages",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/8ea0329e385f393ba78cf71a82c031d9.png",
+        "score": 8.5,
+        "developer": "id Software",
+        "publisher": "Microsoft",
+        "year": 2025,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 87,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Dredge",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f48766293b4fc3e06b9c464fcccc03ab.png",
+        "score": 8.0,
+        "developer": "Black Salt Games",
+        "publisher": "Black Salt Games",
+        "year": 2023,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 88,
+        "franchise": "The Elder Scrolls",
+        "franchise_index": 5.0,
+        "title": "The Elder Scrolls V: Skyrim",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/d17f1582a4c9ae2078ae91ca7b5645ea.png",
+        "score": 8.0,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 89,
+        "franchise": "The Elder Scrolls",
+        "franchise_index": 5.1,
+        "title": "The Elder Scrolls V: Skyrim Special Edition",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/3fefb4dece2d90708c94ccc3846d8d40.png",
+        "score": 8.0,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 90,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Enslaved: Odyssey to the West",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9c21455c626adc99e60f9f4edcfe9a69.png",
+        "score": 6.0,
+        "developer": "Ninja Theory",
+        "publisher": "Bandai Namco",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 91,
+        "franchise": "Fallout",
+        "franchise_index": 3.0,
+        "title": "Fallout 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/838b5a042f1761ef0b5981585a0a7f38.png",
+        "score": 7.5,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2008,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 5,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 92,
+        "franchise": "Fallout",
+        "franchise_index": 3.5,
+        "title": "Fallout: New Vegas",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/fbd8fe28408429acff56a111faf8b264.jpg",
+        "score": 8.0,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Bethesda Softworks",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 4,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 93,
+        "franchise": "Fallout",
+        "franchise_index": 4.0,
+        "title": "Fallout 4",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b5209fa882c43a2d47dc6f0243e9d64f.png",
+        "score": 7.0,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2015,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 94,
+        "franchise": "Far Cry",
+        "franchise_index": 3.0,
+        "title": "Far Cry 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5d4acfa10303c58039e94acd803e9482.png",
+        "score": 7.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 95,
+        "franchise": "Far Cry",
+        "franchise_index": 3.5,
+        "title": "Far Cry 3: Blood Dragon",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/84aaa84129e365590aeb86b57697edb9.png",
+        "score": 8.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 96,
+        "franchise": "Far Cry",
+        "franchise_index": 4.0,
+        "title": "Far Cry 4",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/62325c1f7b77fb45c3ac91790b4cd2d6.jpg",
+        "score": 6.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 97,
+        "franchise": "Far Cry",
+        "franchise_index": 4.5,
+        "title": "Far Cry: Primal",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ba281f16f7fe27f2675f0bec200dfdc1.png",
+        "score": 6.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 98,
+        "franchise": "Far Cry",
+        "franchise_index": 5.0,
+        "title": "Far Cry 5",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c60b6031ae9ebbef03aa963a21ab7ef9.png",
+        "score": 6.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2018,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 99,
+        "franchise": "Far Cry",
+        "franchise_index": 5.5,
+        "title": "Far Cry: New Dawn",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b40b8640d077b91b1ca8c1f276074d3b.png",
+        "score": 4.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2019,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 100,
+        "franchise": "Ghostrunner",
+        "franchise_index": 1.0,
+        "title": "Ghostrunner",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/2cf297f54a6678a3d0f225a64a2c6db3.png",
+        "score": 7.5,
+        "developer": "One More Level",
+        "publisher": "505 Games",
+        "year": 2020,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS Platformer",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 101,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Ghostwire: Tokyo",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f8db1389df5ac42b28f8a58a497655a7.jpg",
+        "score": 7.0,
+        "developer": "Tango Gameworks",
+        "publisher": "Bethesda Softworks",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 102,
+        "franchise": "God of War",
+        "franchise_index": 7.0,
+        "title": "God of War",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5855660034a74cfe0e5fc8d57d17f4ac.png",
+        "score": 9.5,
+        "developer": "Santa Monica Studios",
+        "publisher": "Sony Interactive",
+        "year": 2018,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 103,
+        "franchise": "God of War",
+        "franchise_index": 8.0,
+        "title": "God of War: Ragnarok",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/fd93fd1de50e084dd7d3b0b9f6950450.png",
+        "score": 10.0,
+        "developer": "Santa Monica Studios",
+        "publisher": "Sony Interactive",
+        "year": 2022,
+        "platform(s) played on": [
+            "PS5"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 104,
+        "franchise": "Grand Theft Auto",
+        "franchise_index": 4.0,
+        "title": "Grand Theft Auto IV",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/a32bc8141e168ff20fdfe3f0fbc72155.png",
+        "score": 7.5,
+        "developer": "Rockstar Games",
+        "publisher": "2K Games",
+        "year": 2008,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 105,
+        "franchise": "Grand Theft Auto",
+        "franchise_index": 5.0,
+        "title": "Grand Theft Auto V",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
+        "score": 8.0,
+        "developer": "Rockstar Games",
+        "publisher": "2K Games",
+        "year": 2013,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 106,
+        "franchise": "Half-Life",
+        "franchise_index": 2.0,
+        "title": "Half-Life 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/76a222659b3362960d5a962182d5b17c.png",
+        "score": 9.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2004,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 5,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 107,
+        "franchise": "Halo",
+        "franchise_index": 1.0,
+        "title": "Halo: Combat Evolved",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/477aaa93492109be31a9c22df598c952.png",
+        "score": 8.0,
+        "developer": "Bungie",
+        "publisher": "Microsoft Studios",
+        "year": 2001,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 108,
+        "franchise": "Halo",
+        "franchise_index": 2.0,
+        "title": "Halo 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ff2d9e29dce3a287da608e021c2b81a5.png",
+        "score": 7.5,
+        "developer": "Bungie",
+        "publisher": "Microsoft Studios",
+        "year": 2004,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 109,
+        "franchise": "Halo",
+        "franchise_index": 3.0,
+        "title": "Halo 3",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/1d9fb1278212f3c7d4d0d0f966b39d50.png",
+        "score": 8.0,
+        "developer": "Bungie",
+        "publisher": "Microsoft Studios",
+        "year": 2007,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 110,
+        "franchise": "Halo",
+        "franchise_index": 3.1,
+        "title": "Halo 3: ODST",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/eb2c0a0b3fdc421a49ff5a98d1e85309.png",
+        "score": 7.0,
+        "developer": "Bungie",
+        "publisher": "Microsoft Studios",
+        "year": 2009,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 111,
+        "franchise": "Halo",
+        "franchise_index": 3.2,
+        "title": "Halo: Reach",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/de1e8c497e48aec7ff4d6426461f2db3.png",
+        "score": 7.0,
+        "developer": "Bungie",
+        "publisher": "Microsoft Studios",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 112,
+        "franchise": "Halo",
+        "franchise_index": 4.0,
+        "title": "Halo 4",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/4cc2eb6121744f32b97778356fd64c8c.png",
+        "score": 5.0,
+        "developer": "343 Game Studios",
+        "publisher": "Microsoft Studios",
+        "year": 2012,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Downfall of Halo. Why bring back Master Chief for a lackluster campaign."
+    },
+    {
+        "id": 113,
+        "franchise": "Halo",
+        "franchise_index": 5.0,
+        "title": "Halo 5: Guardians",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e741529b32a46aa38d8b5428fa95bf9c.png",
+        "score": 2.0,
+        "developer": "343 Game Studios",
+        "publisher": "Microsoft Studios",
+        "year": 2015,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Not Halo anymore"
+    },
+    {
+        "id": 114,
+        "franchise": "Halo",
+        "franchise_index": 6.0,
+        "title": "Halo Infinite",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5e6f4ecb84c2cef4254267d8479a3fb4.png",
+        "score": 7.0,
+        "developer": "343 Game Studios",
+        "publisher": "Microsoft Studios",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 115,
+        "franchise": "High on Life",
+        "franchise_index": 1.0,
+        "title": "High on Life",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5b464e1ec0e1a8b032410a97582e57ac.png",
+        "score": 7.0,
+        "developer": "Squanch Games, Inc.",
+        "publisher": "Squanch Games, Inc.",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 116,
+        "franchise": "Homefront",
+        "franchise_index": 1.0,
+        "title": "Homefront",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/06de5b4f3d0ee8a0749bf6a5af99d224.jpg",
+        "score": 1.0,
+        "developer": "Kaos Studios",
+        "publisher": "THQ",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Trash"
+    },
+    {
+        "id": 117,
+        "franchise": "Horizon",
+        "franchise_index": 1.0,
+        "title": "Horizon Zero Dawn",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/abd673b91e4bb9c556da84c6f6f5d470.png",
+        "score": 7.0,
+        "developer": "Guerrilla Games",
+        "publisher": "Sony Interactive",
+        "year": 2017,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 118,
+        "franchise": "Horizon",
+        "franchise_index": 2.0,
+        "title": "Horizon Forbidden West",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/509e2df19b9539b6feb63e375650a9de.png",
+        "score": 7.0,
+        "developer": "Guerilla Games",
+        "publisher": "Sony Interactive",
+        "year": 2022,
+        "platform(s) played on": [
+            "PS5"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 119,
+        "franchise": "inFamous",
+        "franchise_index": 1.0,
+        "title": "Infamous",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9198689b820fc4a59bdcaa334b8cfbd5.png",
+        "score": 7.0,
+        "developer": "Sucker Punch",
+        "publisher": "Sony Interactive",
+        "year": 2009,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 120,
+        "franchise": "inFamous",
+        "franchise_index": 2.0,
+        "title": "Infamous 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e238cbc37c2ce28891d7187fb2ef7c58.png",
+        "score": 8.0,
+        "developer": "Sucker Punch",
+        "publisher": "Sony Interactive",
+        "year": 2011,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 121,
+        "franchise": "inFamous",
+        "franchise_index": 3.0,
+        "title": "Infamous: Second Son",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5b64cd5af426b00c26031e097fc60bfb.png",
+        "score": 6.0,
+        "developer": "Sucker Punch",
+        "publisher": "Sony Interactive",
+        "year": 2014,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 122,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Inside",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/3240f70f7ea5d523e886a8327cd49ce9.png",
+        "score": 7.5,
+        "developer": "Playdead",
+        "publisher": "Playdead",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Puzzle",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 123,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Jazzpunk: The Director's Cut",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6e4dea5462fb435ec22e26f6c9015ab6.png",
+        "score": 5.0,
+        "developer": "Necrophone Games",
+        "publisher": "Adult Swim Games",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Weird little indie game that words cannot describe. I guess you are a spy?"
+    },
+    {
+        "id": 124,
+        "franchise": "The Last of Us",
+        "franchise_index": 1.0,
+        "title": "The Last of Us",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/849d7b8124e44421cf640466299db4dc.png",
+        "score": 7.0,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2013,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 125,
+        "franchise": "The Last of Us",
+        "franchise_index": 2.0,
+        "title": "The Last of Us: Part II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/3a96a1164364c063f40ce33aaf971783.png",
+        "score": 8.5,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2020,
+        "platform(s) played on": [
+            "PS5"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 126,
+        "franchise": "Left 4 Dead",
+        "franchise_index": 2.0,
+        "title": "Left 4 Dead 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/248fc45afe6980b6b520b592ff9de696.png",
+        "score": 7.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2009,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Zombie"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 127,
+        "franchise": "The Legend of Zelda",
+        "franchise_index": 18.0,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png",
+        "score": 10.0,
+        "developer": "Nintendo",
+        "publisher": "Nintendo",
+        "year": 2017,
+        "platform(s) played on": [
+            "Nintendo Switch"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 128,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Limbo",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/97e147b55c7b8f6e9d79100fd40d68a0.png",
+        "score": 7.0,
+        "developer": "Playdead",
+        "publisher": "Microsoft",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Puzzle",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 129,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "LISA: The Painful",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/87f1d983a26152e4adc40a90043c99b8.png",
+        "score": 6.0,
+        "developer": "Dingaling Productions",
+        "publisher": "Dingaling Productions",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "RPG"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 130,
+        "franchise": "LittleBigPlanet",
+        "franchise_index": 1.0,
+        "title": "LittleBigPlanet",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/bf2c9d24d8af645358d4849e79ddd0c3.png",
+        "score": 7.0,
+        "developer": "Media Molecule",
+        "publisher": "Sony Interactive",
+        "year": 2008,
+        "platform(s) played on": [
+            "PlayStation"
+        ],
+        "genre(s)": [
+            "Platformer",
+            "Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 131,
+        "franchise": "Marvel: Ultimate Alliance",
+        "franchise_index": 1.0,
+        "title": "Marvel: Ultimate Alliance",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e3798cedd56de01caaa3ce86e2e2c32b.png",
+        "score": 6.0,
+        "developer": "Raven Software",
+        "publisher": "Activision",
+        "year": 2006,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 132,
+        "franchise": "Marvel's Spiderman",
+        "franchise_index": 1.0,
+        "title": "Marvel's Spiderman",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/1bc38477bc1f540837e39eb0b8dbb520.png",
+        "score": 9.0,
+        "developer": "Insomniac Games",
+        "publisher": "Sony Interactive",
+        "year": 2018,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 3,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 133,
+        "franchise": "Marvel's Spiderman",
+        "franchise_index": 1.5,
+        "title": "Marvel's Spiderman: Miles Morales",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b6cc4153e11f0917be8b737751264588.png",
+        "score": 7.0,
+        "developer": "Insomniac Games",
+        "publisher": "Sony Interactive",
+        "year": 2020,
+        "platform(s) played on": [
+            "PS5"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 134,
+        "franchise": "Marvel's Spiderman",
+        "franchise_index": 2.0,
+        "title": "Marvel's Spiderman 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/2572510b22e85f491270becf2fc166f7.png",
+        "score": 8.0,
+        "developer": "Insomniac Games",
+        "publisher": "Sony Interactive",
+        "year": 2023,
+        "platform(s) played on": [
+            "PS5"
+        ],
+        "genre(s)": [
+            ""
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 135,
+        "franchise": "Middle-Earth: Shadow",
+        "franchise_index": 1.0,
+        "title": "Middle-Earth: Shadow of Mordor",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/7fee21a5a2378a1f76db9d1757346e6e.png",
+        "score": 7.0,
+        "developer": "Monolith Productions",
+        "publisher": "Warner Bros. Games",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 136,
+        "franchise": "Mirror's Edge",
+        "franchise_index": 1.0,
+        "title": "Mirror's Edge",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/a82e1f1656c1bbbf26f4ed4c73623589.png",
+        "score": 6.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2008,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS Platformer",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 137,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Mouthwashing",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/20b9686ae90039dd7216f07c6bdd3211.png",
+        "score": 8.0,
+        "developer": "Wrong Organ",
+        "publisher": "Critical Reflex",
+        "year": 2024,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie",
+            "Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 138,
+        "franchise": "Pokémon",
+        "franchise_index": 1.1,
+        "title": "Pokemon Yellow",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/4d259c855d7b48eb2d149af700e149c6.png",
+        "score": 10.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 1998,
+        "platform(s) played on": [
+            "Gameboy Color"
+        ],
+        "genre(s)": [
+            "RPG",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 139,
+        "franchise": "Pokémon",
+        "franchise_index": 2.0,
+        "title": "Pokemon Silver",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/79c4869e6b207aac8ca8100106645764.png",
+        "score": 10.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 1999,
+        "platform(s) played on": [
+            "Gameboy Color"
+        ],
+        "genre(s)": [
+            "RPG",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 140,
+        "franchise": "Pokémon",
+        "franchise_index": 2.1,
+        "title": "Pokemon Crystal",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/836400e84922867f1aaba0d09abb538f.png",
+        "score": 10.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 2001,
+        "platform(s) played on": [
+            "Gameboy Color"
+        ],
+        "genre(s)": [
+            "RPG",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 141,
+        "franchise": "Pokémon",
+        "franchise_index": 3.1,
+        "title": "Pokemon Emerald",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/052938e7b425df3acdd9dc4be44404ef.png",
+        "score": 7.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 2004,
+        "platform(s) played on": [
+            "Gameboy Advance"
+        ],
+        "genre(s)": [
+            "RPG",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 142,
+        "franchise": "Pokémon",
+        "franchise_index": 3.2,
+        "title": "Pokemon Fire Red",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/02364616164166b84371270ca2e6eda2.png",
+        "score": 7.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 2004,
+        "platform(s) played on": [
+            "Gameboy Advance"
+        ],
+        "genre(s)": [
+            "RPG",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 143,
+        "franchise": "Pokémon",
+        "franchise_index": 8.0,
+        "title": "Pokemon Shield",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0dfb8f42331e49beb91926729e7f0c7f.png",
+        "score": 6.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 2019,
+        "platform(s) played on": [
+            "Nintendo Switch"
+        ],
+        "genre(s)": [
+            "RPG",
+            "Action/Adventure"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 144,
+        "franchise": "Pokémon",
+        "franchise_index": 1.2,
+        "title": "Pokemon Stadium",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/d5d6f4f33df6216588dad86b825be352.png",
+        "score": 8.0,
+        "developer": "Game Freak",
+        "publisher": "Nintendo",
+        "year": 1998,
+        "platform(s) played on": [
+            "Nintendo 64"
+        ],
+        "genre(s)": [
+            "Fighting"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 145,
+        "franchise": "Portal",
+        "franchise_index": 1.0,
+        "title": "Portal",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/dcb88e77b00e85321d39b4e4097c1107.png",
+        "score": 8.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2007,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Puzzle",
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 146,
+        "franchise": "Portal",
+        "franchise_index": 2.0,
+        "title": "Portal 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/24be7c4485d63a3d70e038692172adce.png",
+        "score": 9.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Puzzle",
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 147,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Prey",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0f7f5d0f582470276370143a95d2906f.png",
+        "score": 10.0,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2017,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 148,
+        "franchise": "Prince of Persia",
+        "franchise_index": 4.0,
+        "title": "Prince of Persia: The Sands of Time",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6a8cfab2aa11fbb342063df25c16a5f1.png",
+        "score": 9.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2003,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 149,
+        "franchise": "Prince of Persia",
+        "franchise_index": 5.0,
+        "title": "Prince of Persia: Warrior Within",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0e81202a194c3198d45cceb0edec2ff0.jpg",
+        "score": 8.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2004,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 150,
+        "franchise": "Psychonauts",
+        "franchise_index": 1.0,
+        "title": "Psychonauts",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/3ef66143a4e5311332f23b364425643e.png",
+        "score": 8.0,
+        "developer": "Double Fine Studios",
+        "publisher": "Double Fine Studios",
+        "year": 2005,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Platformer",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 151,
+        "franchise": "Psychonauts",
+        "franchise_index": 2.0,
+        "title": "Psychonauts 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9dc918f7da7faac04bfcfb8d4762814b.png",
+        "score": 9.5,
+        "developer": "Double Fine Studios",
+        "publisher": "Microsoft Game Studios",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Platformer",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 152,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Quantum Break",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/583a9a3c0b349b7282d5db3aee07ac43.jpg",
+        "score": 7.5,
+        "developer": "Remedy Entertainment",
+        "publisher": "Xbox Game Studios",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 153,
+        "franchise": "Ratchet & Clank",
+        "franchise_index": 9.0,
+        "title": "Ratchet & Clank: Rift Apart",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e30c7d71dd22da8264499ef52ad97c81.png",
+        "score": 7.0,
+        "developer": "Insomniac Games",
+        "publisher": "Sony Interactive",
+        "year": 2021,
+        "platform(s) played on": [
+            "PS5"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 154,
+        "franchise": "Red Dead",
+        "franchise_index": 2.0,
+        "title": "Red Dead Redemption",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/a9f9ef04f6c8bcc449084e0cc4183cf7.png",
+        "score": 9.0,
+        "developer": "Rockstar Games",
+        "publisher": "2K Games",
+        "year": 2010,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Western"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 155,
+        "franchise": "Saint's Row",
+        "franchise_index": 3.0,
+        "title": "Saint's Row: The Third",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0aaa21205892adaccedac28e2b127058.png",
+        "score": 7.0,
+        "developer": "Volition",
+        "publisher": "THQ",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 156,
+        "franchise": "Saint's Row",
+        "franchise_index": 4.0,
+        "title": "Saints Row IV",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/60f84107a8b3ddfdf8c67365b18e7c5e.png",
+        "score": 6.0,
+        "developer": "Volition",
+        "publisher": "THQ",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 157,
+        "franchise": "Shank",
+        "franchise_index": 1.0,
+        "title": "Shank",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/df1cd9015c1cd8dd15d874bade18d868.png",
+        "score": 6.0,
+        "developer": "Klei Entertainment",
+        "publisher": "EA",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 158,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Singularity",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/3ebe2a87a58cf391399b0bf0cb53c8ae.png",
+        "score": 7.0,
+        "developer": "Raven Software",
+        "publisher": "Activision",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Survival Horror"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 159,
+        "franchise": "Soul Calibur",
+        "franchise_index": 3.0,
+        "title": "Soul Calibur II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/20a34acf77d2fc932d6cec893d6065c3.png",
+        "score": 7.0,
+        "developer": "Project Soul",
+        "publisher": "Bandai Namco",
+        "year": 2002,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Fighting"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 160,
+        "franchise": "Soul Calibur",
+        "franchise_index": 6.0,
+        "title": "Soul Calibur V",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/587304c8d27e74d1ae57aee4ee3f77dc.jpg",
+        "score": 6.0,
+        "developer": "Project Soul",
+        "publisher": "Bandai Namco",
+        "year": 2008,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Fighting"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 161,
+        "franchise": "South Park",
+        "franchise_index": 1.0,
+        "title": "South Park: The Stick of Truth",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/01b365f64a3bd88bdb415e92c67ca1ad.jpg",
+        "score": 7.0,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Ubisoft",
+        "year": 2014,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "RPG"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 162,
+        "franchise": "South Park",
+        "franchise_index": 2.0,
+        "title": "South Park: The Fractured but Whole",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c903e47a18a40c4564c11d4924fcbe7d.jpg",
+        "score": 7.0,
+        "developer": "Ubisoft San Francisco",
+        "publisher": "Ubisoft",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "RPG"
+        ],
+        "noDlcs": 2,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 163,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Spec Ops: The Line",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0f575f79f610cfa057a51cd284e4b827.png",
+        "score": 7.5,
+        "developer": "Yager Development",
+        "publisher": "2K Games",
+        "year": 2012,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Shooter",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 164,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Spider-Man",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ab54ae2145b66c0c6400e21f850f4aec.png",
+        "score": 4.0,
+        "developer": "Treyarch",
+        "publisher": "Activision",
+        "year": 2002,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Move tie in game with Tobey and Willem Dafoe"
+    },
+    {
+        "id": 165,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Stacking",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/9ce43b7f6e84b6ae7dae4e7d62483626.png",
+        "score": 7.0,
+        "developer": "Double Fine",
+        "publisher": "Double Fine",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 166,
+        "franchise": "Star Wars: Battlefront",
+        "franchise_index": 2.0,
+        "title": "Star Wars: Battlefront 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/aa9ee5a5b1155137461f9e4c7389f038.png",
+        "score": 7.0,
+        "developer": "Pandemic Studios",
+        "publisher": "LucasArts",
+        "year": 2005,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 167,
+        "franchise": "Star Wars: Battlefront",
+        "franchise_index": 2.5,
+        "title": "Star Wars: Battlefront II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/263253aaa403d4555a972b520d9f03eb.png",
+        "score": 4.0,
+        "developer": "DICE",
+        "publisher": "EA",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "DICE knows how to make those good looking games but I don't think they've ever written a good game"
+    },
+    {
+        "id": 168,
+        "franchise": "Star Wars: Battlefront",
+        "franchise_index": 3.0,
+        "title": "Star Wars: Battlefront Renegade Squadron",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/1f9bf0131d0018ebc668923310bb7161.png",
+        "score": 6.0,
+        "developer": "Rebellion",
+        "publisher": "LucasArts",
+        "year": 2007,
+        "platform(s) played on": [
+            "PSP"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 169,
+        "franchise": "Star Wars: The Force Unleashed",
+        "franchise_index": 1.0,
+        "title": "Star Wars: The Force Unleashed",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/72354ece92cab9e7b9ce80ac2ca69e9e.png",
+        "score": 7.0,
+        "developer": "LucasArts",
+        "publisher": "LucasArts",
+        "year": 2008,
+        "platform(s) played on": [
+            "PSP"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 170,
+        "franchise": "Star Wars: The Force Unleashed",
+        "franchise_index": 1.5,
+        "title": "Star Wars: The Force Unleashed (Console)",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6fcbe11b19a4827c0a8ef7cfc1e33eaf.png",
+        "score": 4.0,
+        "developer": "LucasArts",
+        "publisher": "LucasArts",
+        "year": 2008,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cool power fantasy in the Star Wars Universe. However, the PSP/PS2/Wii version of the game is much better."
+    },
+    {
+        "id": 171,
+        "franchise": "Star Wars: The Force Unleashed",
+        "franchise_index": 2.0,
+        "title": "Star Wars: The Force Unleashed II",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0319d8c48c991a68588b363d776d2720.png",
+        "score": 2.0,
+        "developer": "LucasArts",
+        "publisher": "LucasArts",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Story ruins the endings from the first game. Pretty much a shinier version of the first game but now you hold 2 lightsabers (backwards)."
+    },
+    {
+        "id": 172,
+        "franchise": "Star Wars: Jedi",
+        "franchise_index": 1.0,
+        "title": "Star Wars Jedi: Fallen Order",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/935a281a70ae21d54479c9c468145f7e.png",
+        "score": 8.0,
+        "developer": "Respawn Entertainment",
+        "publisher": "EA",
+        "year": 2019,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 173,
+        "franchise": "Star Wars: Jedi",
+        "franchise_index": 2.0,
+        "title": "Star Wars Jedi: Survivor",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/230c6cdae328fffdc5be57ecf39ae943.png",
+        "score": 9.0,
+        "developer": "Respawn Entertainment",
+        "publisher": "EA",
+        "year": 2023,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 174,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Starfield",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ac79bc4536e67368f7a054716ebdf36f.png",
+        "score": 6.5,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "year": 2023,
+        "platform(s) played on": [
+            ""
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "FPS-RPG Hybrid"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 175,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Sunset Overdrive",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/8ab1b76ca6c1ac26d16bbe59e0b355c9.png",
+        "score": 7.0,
+        "developer": "Insomniac Games",
+        "publisher": "Microsoft Studios",
+        "year": 2014,
+        "platform(s) played on": [
+            "Xbox One"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 176,
+        "franchise": "Mario",
+        "franchise_index": 10.0,
+        "title": "Super Mario Odyssey",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/505870c8848f2d550944bf64008c9472.png",
+        "score": 9.0,
+        "developer": "Nintendo",
+        "publisher": "Nintendo",
+        "year": 2017,
+        "platform(s) played on": [
+            "Nintendo Switch"
+        ],
+        "genre(s)": [
+            "Platformer",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 177,
+        "franchise": "Super Smash Bros",
+        "franchise_index": 1.0,
+        "title": "Super Smash Bros",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/aedfc9ce6f9548cae0642eb628fa23c7.png",
+        "score": 8.0,
+        "developer": "HAL Laboratory",
+        "publisher": "Nintendo",
+        "year": 1999,
+        "platform(s) played on": [
+            "Nintendo 64"
+        ],
+        "genre(s)": [
+            "Fighting"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 178,
+        "franchise": "System Shock",
+        "franchise_index": 2.0,
+        "title": "System Shock 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/7a9114855a255f1dcf1abaae60abb86e.png",
+        "score": 10.0,
+        "developer": "Irrational Games/Looking Glass",
+        "publisher": "EA",
+        "year": 1999,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS-RPG Hybrid",
+            "Immersive Sim"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 179,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Tacoma",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/d4e4e52a55cf98172a6d70734dbe990d.png",
+        "score": 6.0,
+        "developer": "Fullbright",
+        "publisher": "Fullbright",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Indie"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 180,
+        "franchise": "Team Fortress",
+        "franchise_index": 2.0,
+        "title": "Team Fortress 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f64230dace882ba8b2d14ebfd24dc0a3.png",
+        "score": 7.0,
+        "developer": "Valve",
+        "publisher": "Valve",
+        "year": 2007,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 181,
+        "franchise": "XCOM",
+        "franchise_index": "",
+        "title": "The Bureau: XCOM Declassified",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/a827ecd90ff2da8c74f80376fecb2c0b.png",
+        "score": 4.0,
+        "developer": "2K Marin",
+        "publisher": "2K Games",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Tactics"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 182,
+        "franchise": "Borderlands",
+        "franchise_index": 3.1,
+        "title": "Tiny Tina's Wonderlands",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/7129974cc4dfc151fb84919c7ac36e40.png",
+        "score": 7.0,
+        "developer": "Geabox Games",
+        "publisher": "2K Games",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 183,
+        "franchise": "Titanfall",
+        "franchise_index": 2.0,
+        "title": "Titanfall 2",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/8ee70d149f99204cd4757ec7648fbe44.png",
+        "score": 8.0,
+        "developer": "Respawn Entertainment",
+        "publisher": "EA",
+        "year": 2016,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 184,
+        "franchise": "Tom Clancy's Splinter Cell",
+        "franchise_index": 1.0,
+        "title": "Tom Clancy's Splinter Cell",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f2aa417ab5eec093fb1699b3c789caff.png",
+        "score": 8.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2002,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Stealth",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 185,
+        "franchise": "Tom Clancy's Splinter Cell",
+        "franchise_index": 3.0,
+        "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/923ccbcec867ebc5588386df7c370c55.png",
+        "score": 9.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2005,
+        "platform(s) played on": [
+            "PS2"
+        ],
+        "genre(s)": [
+            "Stealth",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 186,
+        "franchise": "Tom Clancy's Splinter Cell",
+        "franchise_index": 4.0,
+        "title": "Tom Clancy's Splinter Cell: Conviction",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6829f04c08f76d864d84dfad889698f2.png",
+        "score": 5.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2010,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Stealth",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 187,
+        "franchise": "Tom Clancy's Splinter Cell",
+        "franchise_index": 5.0,
+        "title": "Tom Clancy's Splinter Cell: Blacklist",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/5dffa05994b7c919d53dd8423441a5fc.png",
+        "score": 7.0,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Stealth",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "If Sam Fisher, who should be like 50, had Nathan Drake's agility. Cool ability to mark and execute and spy thriller elements are cool. But short campaign and weird retcons in the story."
+    },
+    {
+        "id": 188,
+        "franchise": "Tomb Raider",
+        "franchise_index": 10.0,
+        "title": "Tomb Raider",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/74f971cf212c9f971e96de7a8317a09a.jpg",
+        "score": 6.0,
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "year": 2013,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 189,
+        "franchise": "Tomb Raider",
+        "franchise_index": 11.0,
+        "title": "Rise of the Tomb Raider",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/8f159ea16ad0f36be77714fc8ab1dcae.png",
+        "score": 6.5,
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "year": 2015,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 190,
+        "franchise": "Tomb Raider",
+        "franchise_index": 12.0,
+        "title": "Shadow of the Tomb Raider",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/97b0724d4dc613ce5bde0fcbe9267b71.png",
+        "score": 7.0,
+        "developer": "Eidos Montreal",
+        "publisher": "Square Enix",
+        "year": 2018,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 191,
+        "franchise": "Uncharted",
+        "franchise_index": 1.0,
+        "title": "Uncharted 1: Drake's Fortune",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/f53b5a5eb470f87921b5ff3d6a61cda6.png",
+        "score": 7.0,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2007,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 192,
+        "franchise": "Uncharted",
+        "franchise_index": 2.0,
+        "title": "Uncharted 2: Among Thieves",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/1d6342347f13d911514e45ecb02786a6.png",
+        "score": 9.0,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2009,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 193,
+        "franchise": "Uncharted",
+        "franchise_index": 3.0,
+        "title": "Uncharted 3: Drake's Deception",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/fd89e76448f934ed44572ec77f4c8d64.png",
+        "score": 9.0,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2011,
+        "platform(s) played on": [
+            "PS3"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 194,
+        "franchise": "Uncharted",
+        "franchise_index": 4.0,
+        "title": "Uncharted 4: A Thief's End",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/6fe386b00d7a58df2ee236b3bf339e6b.jpg",
+        "score": 10.0,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2016,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 195,
+        "franchise": "Uncharted",
+        "franchise_index": 5.0,
+        "title": "Uncharted: The Lost Legacy",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ff72567e79f5832b2c4b86057b8765c5.png",
+        "score": 9.0,
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive",
+        "year": 2017,
+        "platform(s) played on": [
+            "PS4"
+        ],
+        "genre(s)": [
+            "Action/Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 196,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Unpacking",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/b0cee2630a31ae4c45e41a66b305fa2c.png",
+        "score": 5.0,
+        "developer": "Witch Beam",
+        "publisher": "Humble Games",
+        "year": 2021,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Puzzle"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": "Cozy organizing game. Got tedious for someone like me. It's like a fancy fidget toy."
+    },
+    {
+        "id": 197,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Undertale",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/aba1e5182d973f43f2b3fd755f8e2314.png",
+        "score": 9.0,
+        "developer": "Jxsh",
+        "publisher": "Jxsh",
+        "year": 2015,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Indie",
+            "RPG"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 198,
+        "franchise": "WarCraft",
+        "franchise_index": 3.0,
+        "title": "WarCraft III: Reign of Chaos",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/c8113305c0428b74ed3f1b6051520039.png",
+        "score": 8.0,
+        "developer": "Blizzard",
+        "publisher": "Blizzard",
+        "year": 2002,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Strategy RTS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 199,
+        "franchise": "WarCraft",
+        "franchise_index": 3.1,
+        "title": "WarCraft III: The Frozen Throne",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/ae934d990bb6f14c6df3c2c2ab9f5448.png",
+        "score": 8.0,
+        "developer": "Blizzard",
+        "publisher": "Blizzard",
+        "year": 2003,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Strategy RTS"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 200,
+        "franchise": "Warhammer 40K",
+        "franchise_index": 1.0,
+        "title": "Warhammer: Space Marine",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/537786ef05a738d155fc78d7243e3030.png",
+        "score": 6.0,
+        "developer": "Relic Entertainment",
+        "publisher": "THQ",
+        "year": 2011,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 201,
+        "franchise": "Wolfenstein",
+        "franchise_index": 1.0,
+        "title": "Wolfenstein: The New Order",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/1c183ec2bf2e0b7cb725c5d2127d250b.png",
+        "score": 9.0,
+        "developer": "MachineGames",
+        "publisher": "Bethesda Softworks",
+        "year": 2014,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 202,
+        "franchise": "Wolfenstein",
+        "franchise_index": 1.5,
+        "title": "Wolfenstein: The Old Blood",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0e5d486614a4d913abb4c08b07febbd2.png",
+        "score": 8.0,
+        "developer": "MachineGames",
+        "publisher": "Bethesda Softworks",
+        "year": 2015,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 203,
+        "franchise": "Wolfenstein",
+        "franchise_index": 2.0,
+        "title": "Wolfenstein II: The New Colossus",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/fab68d941875c19041a374166a67a8eb.jpg",
+        "score": 8.0,
+        "developer": "MachineGames",
+        "publisher": "Bethesda Softworks",
+        "year": 2017,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 1,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 204,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Stray",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/0f80528cf7f241930d15c0900c5ab8ad.jpg",
+        "score": 7.0,
+        "developer": "BlueTwelve Studio",
+        "publisher": "Annapurna Interactive",
+        "year": 2022,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "Adventure",
+            "Platformer"
+        ],
+        "noDlcs": 0,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    },
+    {
+        "id": 205,
+        "franchise": "",
+        "franchise_index": "",
+        "title": "Immortals of Aveum",
+        "imgURL": "https://cdn2.steamgriddb.com/grid/e0ead6c38d68c16b6a1d49f0ad11ccab.png",
+        "score": 5.0,
+        "developer": "Ascendant Studios",
+        "publisher": "EA",
+        "year": 2023,
+        "platform(s) played on": [
+            "PC"
+        ],
+        "genre(s)": [
+            "FPS",
+            "Action/Adventure"
+        ],
+        "noDlcs": 0,
+        "dlcs": [
+            {}
+        ],
+        "notes": ""
+    }
+]
